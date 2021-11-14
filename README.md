@@ -1,4 +1,4 @@
-# Health Analytics Case Study <img src="/IMG/pngwing.com.png" align="right" width="120" />
+# Health Analytics Case Study 
 
 > This case study is contained within the [Serious SQL](https://www.datawithdanny.com) by [Danny Ma](https://www.linkedin.com/in/datawithdanny/)
 > 

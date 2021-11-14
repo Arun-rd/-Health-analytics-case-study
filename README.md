@@ -33,6 +33,7 @@ FROM health.user_logs;
 |count                                   |
 |----------------------------------------|
 |554                                     |
+
 **`Note:` For question 2-8, I created a temporary table:**
 
 **Step 1:** Firstly, I ran a code `DROP TABLE IF EXISTS` statement to clear out any previously created tables:

@@ -23,3 +23,13 @@ With the **Health Analytics Mini Case Study**, I queried data to bring insights 
 
 ---
 ## 🚀 Solutions
+![Question 1](https://img.shields.io/badge/Question-1-971901)
+### **How many unique users exist in the logs dataset?**
+```sql
+SELECT COUNT (DISTINCT id)
+FROM health.user_logs;
+```
+
+|count                                   |
+|----------------------------------------|
+|554                                     |
